@@ -10,8 +10,8 @@ Também tenho experiência prática em manutenção e limpeza de computadores, d
 
 ### Entre em Contato
 
-<a href="https://www.linkedin.com/in/joaovitor-dev0/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="src/linkedin.png"/></a> 
-[<img width="50px" src="src/gmail.png" alt="Gmail" title="Gmail.com">](mailto:joao.contato2412@gmail.com)
+<a href="https://www.linkedin.com/in/joaovitor-dev0/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="src/linkedin.png" target="_blank"/></a> 
+[<img width="50px" src="src/gmail.png" alt="Gmail" title="Gmail.com" target="_blank">](mailto:joao.contato2412@gmail.com)
 
 ---
 
