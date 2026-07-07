@@ -17,6 +17,8 @@ Também tenho experiência prática em manutenção e limpeza de computadores, d
 
 ### 🤖 Linguagens e Tecnologias
 
+### Domínio sólido
+
 <img 
     align="left" 
     alt="HTML"
@@ -49,3 +51,50 @@ Também tenho experiência prática em manutenção e limpeza de computadores, d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br>
+<br>
+
+### Em aprendizado
+
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vercel" 
+    title="Vercel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<br>
+<br>
+
+---
+
+### 🎯 Objetivo
+
+Atualmente desenvolvendo projetos reais para aprimorar meus conhecimentos, com foco em atuar como desenvolvedor Frontend, criando interfaces dinâmicas e responsivas.
