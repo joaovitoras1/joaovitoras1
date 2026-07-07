@@ -11,7 +11,7 @@ Também tenho experiência prática em manutenção e limpeza de computadores, d
 ### Entre em Contato
 
 <a href="https://www.linkedin.com/in/joaovitor-dev0/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="src/linkedin.png"/></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao.contato2412@gmail.com" target="_blank"><img width="50px" src="src/gmail.png" alt="Gmail"></a>
+[<img width="50px" src="src/gmail.png" alt="Gmail" title="Gmail.com">](mailto:joao.contato2412@gmail.com)
 
 ---
 
